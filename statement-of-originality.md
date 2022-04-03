@@ -17,8 +17,5 @@ uid: u7227871
 The choose of the a, c, m parameters (line 293-295) in Linear Congruential Generator comes from ZX81 developed by (Sinclair Research Ltd 1981).
 ### url: 
 <https://en.wikipedia.org/wiki/Linear_congruential_generator>
-### licence: 
-N/A
-type of licence for asset
 ***
 
